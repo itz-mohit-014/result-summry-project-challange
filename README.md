@@ -33,8 +33,8 @@ I am added the screenshot as a solution of this challange [ Results summary comp
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/itz-mohit-014/result-summry-project-challange.git)
+- Live Site URL: (https://itz-mohit-014.github.io/result-summry-project-challange/)
 
 ## My process
 
@@ -83,7 +83,7 @@ To see I prepaird the whole design using flexbox layout... added code snippets, 
 ```
 
 ## Author
-
-- Website - [Mohit Jangid](https://www.your-site.com)
+- linkedin - [Mohit Jangid](https://www.linkedin.com/in/mohit487/)
+- Website - [Mohit Jangid](https://itz-mohit-014.github.io/result-summry-project-challange/)
 - Frontend Mentor - [@itz-mohit-014](https://www.frontendmentor.io/profile/itz-mohit-014)
 
